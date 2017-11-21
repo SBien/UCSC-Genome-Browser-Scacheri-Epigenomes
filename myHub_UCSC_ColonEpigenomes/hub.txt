@@ -1,0 +1,5 @@
+hub Colon_epigenomes
+shortLabel Colon_epigenomes
+longLabel Colon_epigenomes
+genomesFile genomes.txt
+email stephannbien@gmail.com
