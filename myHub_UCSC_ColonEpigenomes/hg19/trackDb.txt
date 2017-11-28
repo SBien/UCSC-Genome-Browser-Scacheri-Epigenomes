@@ -619,7 +619,7 @@ color 183,218,218
 track Overlay_Normal_Colon_Crypt_DHS
 type bigWig
 container multiWig
-shortLabel Crypt_dhs
+shortLabel NormalCrypt_Dhs
 longLabel This overlay track graphs signal from three DHS bigWig for normal colon crypt cells
 visibility full
 aggregate transparentOverlay
@@ -656,7 +656,7 @@ color 183,183,218
 track Overlay_CRC_DHS
 type bigWig
 container multiWig
-shortLabel CRC_dhs
+shortLabel CRC_Dhs
 longLabel This overlay track graphs signal from three DHS bigWig for CRC cell lines
 visibility full
 aggregate transparentOverlay
